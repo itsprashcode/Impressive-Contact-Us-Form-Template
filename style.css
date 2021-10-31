@@ -194,5 +194,8 @@
 }
 .contact .container .contactForm .formBox .inputBox input[type="submit"]:hover{
     background: #ff568c;
+    color: #ff45cd ;
+    cursor: pointer;
+       
 }
 /*    Contact Section Ends     */
